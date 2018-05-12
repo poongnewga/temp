@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  resources :posts
   get 'home/index'
   get 'home/page1'
   get 'home/page2'
