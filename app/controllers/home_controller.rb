@@ -7,4 +7,10 @@ class HomeController < ApplicationController
   end
 
 
+
+  def page2
+  end
+
+
+
 end
